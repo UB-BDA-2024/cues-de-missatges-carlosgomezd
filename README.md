@@ -1,3 +1,7 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15081241&assignment_repo_type=AssignmentRepo)
+## Pràctica final
+En aquesta darrera pràctica he afegit tots els endpoints de les pràctiques fins a bases de dades columnars. He afegit tots els tests necessaris de cada pràctica.
+
 ## Pràctica 7: Cues de Missatges
 
 Benvingut/da a la setena pràctica de l'assignatura de Bases de dades. Aquesta pràctica parteix de la plantilla de la pràctica anterior. Com sabeu tenim una API REST que ens permet crear, esborrar, modificar i consultar les dades d'una aplicació de sensors. En aquesta pràctica volem ampliar el cas d'ús de la nostra API per a fer servir cues de missatges.
